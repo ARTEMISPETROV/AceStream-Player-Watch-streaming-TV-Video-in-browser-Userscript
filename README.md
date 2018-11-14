@@ -16,7 +16,7 @@ How to Disable ADs in AceStream
 i was using AceStream technology since 2016 to watch some sports channels and of course i hate to deal with ADs and Pop-ups, so
 you may try to follow view simple tricks to disable as many ads as possible like i did:
 
-- firest thing to do is remove startup "flag" in  AceEngine icon in start menu by right click-properties and erase any thing after target .exe file:  ...\ACEStream\engine\ace_engine.exe"| - it looks like this <--
+- first thing to do is remove startup "flag" in  AceEngine icon in start menu by right click-properties and erase any thing after target .exe file:  ...\ACEStream\engine\ace_engine.exe"| - it looks like this <--
 
 - then you shoud run AceEngine and config it :  right clik on icon in right corner OPTIONS and deselect all checkboxes with check marks.
 

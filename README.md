@@ -3,7 +3,7 @@ simple Userscript what allows to open and watch AceStream TV Video links in brow
 AceStream links script MANUAL
 =============================
 
-actually and ultimately before it get works you need go to http://acestream.org/ and install AceStream Engine  or  ACE Player HD first from http://info.acestream.org/#/products/tsfull
+actually and ultimately before it get works you need to go to http://acestream.org/ and install AceStream Engine  or  ACE Player HD first from http://info.acestream.org/#/products/tsfull
 and then if you can use this script on sites like https://acestreamid.com/  or  http://livetv.sx/enx/allupcoming/
 
 - first run AceStream Engine

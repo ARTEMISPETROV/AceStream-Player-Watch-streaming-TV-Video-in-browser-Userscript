@@ -1,22 +1,8 @@
 // ==UserScript==
-// @name AceStream links open TV Video streaming links in browser
-// @namespace https://github.com/ARTEMISPETROV
-// @description Replaces acestream://  with 127.0.0.1:6878/webui/player/
-// @include http://*
-// @include https://*
-// @version 1.0
-// @author Artem Petrov <petrovartem@protonmail.com> ( https://github.com/ARTEMISPETROV)
-// @source https://github.com/ARTEMISPETROV/AceStream-Player-Watch-streaming-TV-Video-in-browser-Userscript
-// @grant GM_setValue
-// @grant GM_getValue
-// @grant GM_deleteValue
-// @grant GM.setValue
-// @grant GM.getValue
-// @grant GM.deleteValue
-// @run-at document-start
-// @license MIT
+// @description   Replaces acestream://  with 127.0.0.1:6878/webui/player/
+// @include       http://*
+// @include       https://*
 // ==/UserScript==
-
 var url1,url2;
 url1 = ['acestream://'];
 url2 = ['127.0.0.1:6878/webui/player/'];

@@ -19,3 +19,5 @@ you may try to follow view simple tricks to disable as many ads as possible like
 - firest thing to do is remove startup "flag" in  AceEngine icon in start menu by right click-properties and erase any thing after target .exe file:  ...\ACEStream\engine\ace_engine.exe"| - it looks like this <--
 
 - then you shoud run AceEngine and config it :  right clik on icon in right corner OPTIONS and deselect all checkboxes with check marks.
+
+- and at last you can use, lets call them "hacked" noads skins for AcePlayer, simply copy and overide them in ...\user\Application Data\ACEStream\player  folder. But just let you know it may choked player functionality and prevent it from playing actial video in some cases , i was using portable vertion of browser which works much more stable with this "noads hacks".

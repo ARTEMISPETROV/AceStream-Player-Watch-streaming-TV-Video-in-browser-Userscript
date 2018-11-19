@@ -6,8 +6,9 @@
 // @include https://*
 // @version 1.0
 // @author Artem Petrov <petrovartem@protonmail.com> ( https://github.com/ARTEMISPETROV)
-// @source https://github.com/ARTEMISPETROV/AceStream-Player-Watch-streaming-TV-Video-in-browser-Userscript
+// @source https://github.com/ARTEMISPETROV/AceStream-Player-Watch-streaming-TV-Video-in-browser-Userscript.git
 // @license MIT
+// @grant GM_getValue
 // ==/UserScript==
 
 var url1,url2;

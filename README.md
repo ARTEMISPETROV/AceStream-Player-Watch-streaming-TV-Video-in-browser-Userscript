@@ -19,7 +19,7 @@ to Disable ADs in AceStream
 
 view simple tricks to disable as many ads as possible:
 
-- first thing to do is remove startup "flag" in  AceEngine icon in start menu by right click-properties and erase any thing after target .exe file:  ...\ACEStream\engine\ace_engine.exe"| - it looks like this <<<< erase it and click ok.
+- remove startup "flag" in  AceEngine icon in start menu by right click-properties and erase any thing after target .exe" file:  ...\ACEStream\engine\ace_engine.exe"| - itlookslikethis <<<< erase it and click ok.
 
 - then you shoud run AceEngine and config it :  right clik on icon in right corner OPTIONS and deselect all checkboxes with check marks.
 

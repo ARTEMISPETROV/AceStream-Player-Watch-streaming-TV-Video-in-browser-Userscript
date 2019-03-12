@@ -1,7 +1,10 @@
-userscript opens AceStream TV Video links locally in browser window 
+userscript opens AceStream TV Video links locally in browser window
+===================================================================
+MANUAL
+======
 
-AceStream links userscript MANUAL
-=================================
+Dependencies
+============
 
 before it get works you need to go to http://acestream.org/ and install AceStream Engine  or  ACE Player HD first from http://info.acestream.org/#/products/tsfull
 and then you can use this script on sites like https://acestreamid.com/  or  http://livetv.sx/enx/allupcoming/
@@ -10,8 +13,8 @@ and then you can use this script on sites like https://acestreamid.com/  or  htt
 - then click on link which may looks like this: 153e4a4098ada1e6150a5e62cdd58db806fddada for example
 - then local adress window is open in browser and whole system start to work and stream AceStream - torrentTV , and show it in the browser.
 
-How to Disable ADs in AceStream
-===============================
+to Disable ADs in AceStream
+===========================
 
 view simple tricks to disable as many ads as possible:
 

@@ -23,4 +23,4 @@ view simple tricks to disable as many ads as possible:
 
 - then you shoud run AceEngine and config it :  right clik on icon in right corner OPTIONS and deselect all checkboxes with check marks.
 
-- don't remember where i get it but works just fine - "hacked" noads skins for AcePlayer, simply copy and overide them in ...\user\Application Data\ACEStream\player  folder. But just let you know it may choked player functionality and prevent it from playing actial video in some cases , i was using portable vertion of browser which works much more stable with this "noads hacks".
+- don't remember where i get it but works just fine - "hacked" noads skins for AcePlayer, simply copy and overide them in ...\user\Application Data\ACEStream\player  folder. Dont forget to create backup first. By the way it may harm player functionality and prevent it from playing actial video in some cases.

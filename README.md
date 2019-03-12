@@ -1,7 +1,5 @@
-MANUAL
-======
-
 userscript opens AceStream TV Video links locally in browser window
+===================================================================
 
 
 Dependencies

@@ -1,9 +1,9 @@
-simple Userscript what allows to open and watch AceStream TV Video links in browser
+userscript opens AceStream TV Video links locally in browser window 
 
 AceStream links userscript MANUAL
 =================================
 
-actually and ultimately before it get works you need to go to http://acestream.org/ and install AceStream Engine  or  ACE Player HD first from http://info.acestream.org/#/products/tsfull
+before it get works you need to go to http://acestream.org/ and install AceStream Engine  or  ACE Player HD first from http://info.acestream.org/#/products/tsfull
 and then you can use this script on sites like https://acestreamid.com/  or  http://livetv.sx/enx/allupcoming/
 
 - first run AceStream Engine
@@ -13,11 +13,10 @@ and then you can use this script on sites like https://acestreamid.com/  or  htt
 How to Disable ADs in AceStream
 ===============================
 
-i was using AceStream technology since 2016 to watch some sports channels and of course i hate to deal with ADs and Pop-ups, so
-you may try to follow view simple tricks to disable as many ads as possible like i did:
+view simple tricks to disable as many ads as possible:
 
 - first thing to do is remove startup "flag" in  AceEngine icon in start menu by right click-properties and erase any thing after target .exe file:  ...\ACEStream\engine\ace_engine.exe"| - it looks like this <<<< erase it and click ok.
 
 - then you shoud run AceEngine and config it :  right clik on icon in right corner OPTIONS and deselect all checkboxes with check marks.
 
-- and at last you can use, lets call them "hacked" noads skins for AcePlayer, simply copy and overide them in ...\user\Application Data\ACEStream\player  folder. But just let you know it may choked player functionality and prevent it from playing actial video in some cases , i was using portable vertion of browser which works much more stable with this "noads hacks".
+- don't remember where i get it but works just fine - "hacked" noads skins for AcePlayer, simply copy and overide them in ...\user\Application Data\ACEStream\player  folder. But just let you know it may choked player functionality and prevent it from playing actial video in some cases , i was using portable vertion of browser which works much more stable with this "noads hacks".

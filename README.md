@@ -14,4 +14,4 @@ How to use it
 - install Greasemonkey or Tampermonkey or Violentmonkey addon to use userscripts in your browser.
 - install this userscript by it (Greasemonkey or Tampermonkey or Violentmonkey)
 - then you can clicks on links which may looks like this: 153e4a4098ada1e6150a5e62cdd58db806fddada for example
-- then local adress window is open in browser and whole system start to work and stream AceStream - torrentTV , and show it in the browser.
+- then local adress window is open in new browser tab and application - AceStream start to work and stream torrentTV and display it in browser tab insted of ACE Player.
